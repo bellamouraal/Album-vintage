@@ -1,0 +1,6 @@
+{
+  "name": "Álbum de Fotos Vintage",
+  "description": "Repositório e galeria de fotos categorizado em pastas personalizadas com estética vintage, polaroid, filtros retrô e memórias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
